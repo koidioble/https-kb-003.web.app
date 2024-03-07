@@ -1,11 +1,11 @@
 {
-    "name": "kb",
-    "short_name": "kb",
+    "name": "Koidio Y. B.",
+    "short_name": "Koidio Y. B.",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "This is my Portfolio.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
